@@ -1,3 +1,3 @@
 # GeofencingTest
 GeofencingTest
-Test of geofencing
+Test of Geofencing
